@@ -1,5 +1,5 @@
 # Tim Repke
-Computer scientist with a strong interest in information retrieval, text mining, data integration, and explorable visualisations to better understand and interact large-scale heterogeneous datasets who applies his skills in evidence synthesis of climate research with a focus on carbon dioxide removal, public perceptions thereof, carbon pricing, and climate and health. 
+Computer scientist with a strong interest in information retrieval, text mining, data integration, and explorable visualisations to better understand and interact with large-scale heterogeneous datasets who applies his skills for evidence synthesis in climate research with a focus on carbon dioxide removal, public perceptions thereof, carbon pricing, and climate and health. 
 
 * Data annotation platform:    
   https://github.com/TimRepke/nacsos-core
